@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Rama Krishna Raju
+   last: Samantapudi
+email: rks395@nyu.edu
+leaderboard: Raju
